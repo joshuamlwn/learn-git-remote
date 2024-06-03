@@ -1,3 +1,4 @@
 [submodule "scripts"]
 	path = scripts
 	url = git@github.com:joshmlwn/learn-git-submodule.git
+	branch = release
